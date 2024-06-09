@@ -1,3 +1,3 @@
 
 
-Print("All ML codes are written here!")
+print("ML code written here!")
