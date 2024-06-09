@@ -13,4 +13,4 @@ def model3():
     print("Model3 code added here")
 
 
-print("Model2 is performing better than other 2 models, which is my final model")
+print("Model2 is my final model")
